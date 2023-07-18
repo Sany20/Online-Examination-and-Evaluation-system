@@ -1,0 +1,18 @@
+admin side
+teacher account
+	student account
+	fees 
+	add notice
+	attendance
+	timetable generator
+	queries(optional)
+student account
+	get reminder for fees
+	notice display
+	can ask query (opt)
+
+main page : login as admin, login as teacher and login as student
+admin can register only teacher and teacher can further create stud acc.
+tabs in teacher acc: total stud,add stud, fees, add notice, 
+tabs in stud: notice,fees reminder.
+	

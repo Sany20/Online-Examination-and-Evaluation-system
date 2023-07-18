@@ -1,0 +1,3 @@
+flowlayout:jpanel applet panel
+borderlayout: frame window japplet dialog
+
